@@ -207,5 +207,6 @@ marimo/_lsp/
 __marimo__/
 .cursor/
 datasets/
+.data_cache/
 backend/models_store/
 
